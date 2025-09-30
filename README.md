@@ -1,9 +1,6 @@
 <div align="center">
-
 # 👋 Hola, soy Jose Leonardo Toledo
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Backend+Developer;Especializado+en+Testing+Manual+%26+Automatizado;Apasionado+por+la+Calidad+del+Software" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -30,13 +27,6 @@
 </p>
 
 **Herramientas:** Postman • Selenium • Pytest • Git • GitHub • Docker • VS Code
-
-### 🔹 Backend & Desarrollo
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,vue,react,linux,postgresql,mysql" alt="Backend Stack" />
-</p>
-
-**Tecnologías:** Python • FastAPI • Node.js • Vue • React • Linux • PostgreSQL • MySQL
 
 ### 🔹 IA & Machine Learning
 <p align="center">
@@ -66,7 +56,6 @@
 current_focus = {
     "testing": ["Selenium WebDriver", "Pytest + POM", "API Testing"],
     "devops": ["Docker", "CI/CD Pipelines", "GitHub Actions"],
-    "backend": ["FastAPI Best Practices", "Microservicios"],
     "qa_automation": ["Test Automation Framework Design"]
 }
 ```
