@@ -26,7 +26,7 @@
 
 ### 🔹 QA & Testing
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,selenium,pytest,git,github,docker,vscode" alt="QA Tools" />
+  <img src="https://skillicons.dev/icons?i=postman,selenium,git,github,docker,vscode" alt="QA Tools" />
 </p>
 
 **Herramientas:** Postman • Selenium • Pytest • Git • GitHub • Docker • VS Code
