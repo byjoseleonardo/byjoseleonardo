@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Jose Leonardo
 
-<!--
-**byjoseleonardo/byjoseleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudiante de Ingeniería de Sistemas (Universidad de Huánuco)  
+- 💻 Me interesa el desarrollo backend, visión artificial y pruebas de software  
+- 🐍 Trabajo principalmente con **Python** (pytest, FastAPI)  
+- 📊 También tengo proyectos en **Vue.js**, **Docker** y **YOLO**  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos destacados
+- 🔬 [Detector de cáncer de mama con YOLOv8](link)
+- 🦷 [Superposición de imágenes dentales con Vue + FastAPI](link)
+- 🏛️ [Transformación Digital - UDH](link)
