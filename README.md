@@ -9,17 +9,20 @@
 
 ## 🛠️ Tecnologías y herramientas  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=azure-devops&logoColor=white)  
+### 🔹 QA & Testing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,selenium,pytest,git,github,docker,vscode" />
+</p>
+
+### 🔹 Backend & Desarrollo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,vue,react,linux,postgres,mysql" />
+</p>
+
+### 🔹 Extra (IA & Automatización)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
 ---
 
